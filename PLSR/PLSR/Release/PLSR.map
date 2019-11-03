@@ -1,0 +1,1140 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              Sketch.o (__subsf3)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              Sketch.o (__ltsf2)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              Sketch.o (__divsf3)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              Sketch.o (__floatunsisf)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              Sketch.o (__gesf2)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              Sketch.o (__mulsf3)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+                              D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                              Sketch.o (_ZN5Print5printEPK19__FlashStringHelper)
+C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+                              Sketch.o (millis)
+C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                              Sketch.o (pinMode)
+C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                              Sketch.o (_ZN13LiquidCrystal5clearEv)
+C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+                              Sketch.o (_ZN6RotaryC1Ecc)
+C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+                              C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+                              C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o) (yield)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o) (__fixunssfsi)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o) (__unordsf2)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o) (__udivmodsi4)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                              Sketch.o (__divmodsi4)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              Sketch.o (__do_copy_data)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Sketch.o (__do_clear_bss)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              Sketch.o (__do_global_ctors)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o) (abort)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 Sketch.o
+ .data          0x00000000        0x0 Sketch.o
+ .bss           0x00000000        0x0 Sketch.o
+ .text._Z7waitForibi
+                0x00000000       0x7e Sketch.o
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEv
+                0x00000000        0x8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0xe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x90 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000        0xe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .group         0x00000000        0x8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .group         0x00000000        0x8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .data          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .bss           0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal13setRowOffsetsEiiii
+                0x00000000       0x10 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal4homeEv
+                0x00000000        0xe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal9noDisplayEv
+                0x00000000        0xe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal4initEhhhhhhhhhhhh
+                0x00000000       0x58 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystalC2Ehhhhhhhhhhh
+                0x00000000       0x5a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystalC2Ehhhhhhhhhh
+                0x00000000       0x5a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystalC2Ehhhhhhh
+                0x00000000       0x42 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal8noCursorEv
+                0x00000000        0xe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal6cursorEv
+                0x00000000       0x10 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal7noBlinkEv
+                0x00000000        0xe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal5blinkEv
+                0x00000000       0x10 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal17scrollDisplayLeftEv
+                0x00000000        0x6 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal18scrollDisplayRightEv
+                0x00000000        0x6 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal11leftToRightEv
+                0x00000000       0x10 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal11rightToLeftEv
+                0x00000000        0xe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal10autoscrollEv
+                0x00000000       0x10 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal12noAutoscrollEv
+                0x00000000        0xe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text._ZN13LiquidCrystal10createCharEhPh
+                0x00000000       0x50 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .text          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ .data          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ .bss           0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ .text          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x20 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa3 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x1a3 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD Sketch.o
+START GROUP
+LOAD d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a
+END GROUP
+LOAD d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x169a
+ *(.vectors)
+ .vectors       0x00000000       0x68 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data._ZZ14handleButtonOKvE3__c_5
+                0x00000068        0x6 Sketch.o
+ .progmem.data._ZZ14handleButtonOKvE3__c_4
+                0x0000006e        0xb Sketch.o
+ .progmem.data._ZZ14handleButtonOKvE3__c_3
+                0x00000079        0x5 Sketch.o
+ .progmem.data._ZZ14handleButtonOKvE3__c_2
+                0x0000007e        0x7 Sketch.o
+ .progmem.data._ZZ14handleButtonOKvE3__c_1
+                0x00000085        0xa Sketch.o
+ .progmem.data._ZZ14handleButtonOKvE3__c_0
+                0x0000008f        0xc Sketch.o
+ .progmem.data._ZZ14handleButtonOKvE3__c
+                0x0000009b        0xc Sketch.o
+ .progmem.data._ZZ14renderMainMenuvE3__c
+                0x000000a7        0x6 Sketch.o
+ .progmem.data._ZZ5setupE3__c
+                0x000000ad        0x6 Sketch.o
+ .progmem.data.digital_pin_to_timer_PGM
+                0x000000b3       0x14 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                0x000000b3                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x000000c7       0x14 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                0x000000c7                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x000000db       0x14 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                0x000000db                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000000ef        0xa C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                0x000000ef                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000f9        0xa C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                0x000000f9                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x00000103        0xa C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                0x00000103                port_to_mode_PGM
+                0x0000010e                . = ALIGN (0x2)
+ *fill*         0x0000010d        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000010e                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000010e        0x2 Sketch.o
+                0x00000110                __ctors_end = .
+                0x00000110                __dtors_start = .
+ *(.dtors)
+                0x00000110                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000110        0x0 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000110                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000110        0xc D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000011c       0x16 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x0000011c                __do_copy_data
+ .init4         0x00000132       0x10 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000132                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000142       0x16 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000142                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000158        0x8 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000160        0x4 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000160                __vector_22
+                0x00000160                __vector_1
+                0x00000160                __vector_24
+                0x00000160                __vector_12
+                0x00000160                __bad_interrupt
+                0x00000160                __vector_6
+                0x00000160                __vector_3
+                0x00000160                __vector_23
+                0x00000160                __vector_25
+                0x00000160                __vector_11
+                0x00000160                __vector_13
+                0x00000160                __vector_17
+                0x00000160                __vector_19
+                0x00000160                __vector_7
+                0x00000160                __vector_5
+                0x00000160                __vector_4
+                0x00000160                __vector_9
+                0x00000160                __vector_2
+                0x00000160                __vector_21
+                0x00000160                __vector_15
+                0x00000160                __vector_8
+                0x00000160                __vector_14
+                0x00000160                __vector_10
+                0x00000160                __vector_18
+                0x00000160                __vector_20
+                0x00000164                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z14renderMainMenuv
+                0x00000164       0x72 Sketch.o
+                0x00000164                _Z14renderMainMenuv
+ .text.setup    0x000001d6       0x86 Sketch.o
+                0x000001d6                setup
+ .text._Z13rotaryHandlerv
+                0x0000025c      0x116 Sketch.o
+                0x0000025c                _Z13rotaryHandlerv
+ .text._Z14handleButtonOKv
+                0x00000372      0x2aa Sketch.o
+                0x00000372                _Z14handleButtonOKv
+ .text._Z18handleButtonTOGGLEv
+                0x0000061c       0x86 Sketch.o
+                0x0000061c                _Z18handleButtonTOGGLEv
+ .text._Z17handleButtonRESETv
+                0x000006a2       0x32 Sketch.o
+                0x000006a2                _Z17handleButtonRESETv
+ .text.loop     0x000006d4       0x10 Sketch.o
+                0x000006d4                loop
+ .text.startup._GLOBAL__sub_I_lcd
+                0x000006e4       0x30 Sketch.o
+ .text.avr-libc.fplib
+                0x00000714        0xe d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00000714                __subsf3
+                0x00000716                __addsf3
+ .text.avr-libc.fplib
+                0x00000722       0xcc d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00000744                __addsf3x
+ .text.avr-libc.fplib
+                0x000007ee        0xa d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x000007ee                __nesf2
+                0x000007ee                __eqsf2
+                0x000007ee                __cmpsf2
+                0x000007ee                __ltsf2
+                0x000007ee                __lesf2
+ .text.avr-libc.fplib
+                0x000007f8        0x8 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x000007f8                __divsf3
+ .text.avr-libc.fplib
+                0x00000800       0xdc d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00000820                __divsf3x
+                0x00000826                __divsf3_pse
+ .text.avr-libc.fplib
+                0x000008dc       0x7a d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x000008dc                __floatunsisf
+                0x000008e0                __floatsisf
+ .text.avr-libc.fplib
+                0x00000956       0x48 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00000956                __fp_cmp
+ .text.avr-libc.fplib
+                0x0000099e        0xc d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x0000099e                __fp_inf
+ .text.avr-libc.fplib
+                0x000009aa        0x6 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x000009aa                __fp_nan
+ .text.avr-libc.fplib
+                0x000009b0        0xe d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x000009b0                __fp_pscA
+ .text.avr-libc.fplib
+                0x000009be        0xe d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x000009be                __fp_pscB
+ .text.avr-libc.fplib
+                0x000009cc       0x22 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x000009cc                __fp_round
+ .text.avr-libc.fplib
+                0x000009ee       0x44 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x000009ee                __fp_split3
+                0x000009fe                __fp_splitA
+ .text.avr-libc.fplib
+                0x00000a32        0xe d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00000a32                __fp_zero
+                0x00000a34                __fp_szero
+ .text.avr-libc.fplib
+                0x00000a40        0xa d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00000a40                __gesf2
+                0x00000a40                __gtsf2
+ .text.avr-libc.fplib
+                0x00000a4a        0x8 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00000a4a                __mulsf3
+ .text.avr-libc.fplib
+                0x00000a52       0xd2 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00000a70                __mulsf3x
+                0x00000a76                __mulsf3_pse
+ .text.initVariant
+                0x00000b24        0x2 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+                0x00000b24                initVariant
+ .text.startup.main
+                0x00000b26       0x1e C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+                0x00000b26                main
+ .text._ZN5Print17availableForWriteEv
+                0x00000b44        0x6 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000b44                _ZN5Print17availableForWriteEv
+ .text._ZN5Print5flushEv
+                0x00000b4a        0x2 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000b4a                _ZN5Print5flushEv
+ .text._ZN5Print5writeEPKhj
+                0x00000b4c       0x54 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000b4c                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x00000ba0       0x2a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000ba0                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000bca       0x48 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000bca                _ZN5Print5printEPK19__FlashStringHelper
+ .text._ZN5Print5printEPKc
+                0x00000c12        0x4 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000c12                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x00000c16        0xe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000c16                _ZN5Print5printEc
+ .text._ZN5Print11printNumberEmh
+                0x00000c24       0x92 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000c24                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x00000cb6       0x1a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000cb6                _ZN5Print5printEmi
+ .text._ZN5Print5printEji
+                0x00000cd0        0xc C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000cd0                _ZN5Print5printEji
+ .text._ZN5Print10printFloatEdh
+                0x00000cdc      0x1b6 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000cdc                _ZN5Print10printFloatEdh
+ .text._ZN5Print5printEdi
+                0x00000e92        0x4 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                0x00000e92                _ZN5Print5printEdi
+ .text.__vector_16
+                0x00000e96       0x94 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+                0x00000e96                __vector_16
+ .text.millis   0x00000f2a       0x18 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+                0x00000f2a                millis
+ .text.micros   0x00000f42       0x4a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+                0x00000f42                micros
+ .text.delay    0x00000f8c       0x78 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+                0x00000f8c                delay
+ .text.delayMicroseconds
+                0x00001004       0x16 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+                0x00001004                delayMicroseconds
+ .text.init     0x0000101a       0x76 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+                0x0000101a                init
+ .text.turnOffPWM
+                0x00001090       0x52 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000010e2       0x78 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                0x000010e2                pinMode
+ .text.digitalWrite
+                0x0000115a       0x5e C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                0x0000115a                digitalWrite
+ .text.digitalRead
+                0x000011b8       0x52 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                0x000011b8                digitalRead
+ .text._ZN13LiquidCrystal11pulseEnableEv
+                0x0000120a       0x3a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x0000120a                _ZN13LiquidCrystal11pulseEnableEv
+ .text._ZN13LiquidCrystal10write4bitsEh
+                0x00001244       0x5a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x00001244                _ZN13LiquidCrystal10write4bitsEh
+ .text._ZN13LiquidCrystal10write8bitsEh
+                0x0000129e       0x5a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x0000129e                _ZN13LiquidCrystal10write8bitsEh
+ .text._ZN13LiquidCrystal4sendEhh
+                0x000012f8       0x52 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x000012f8                _ZN13LiquidCrystal4sendEhh
+ .text._ZN13LiquidCrystal7commandEh
+                0x0000134a        0x6 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x0000134a                _ZN13LiquidCrystal7commandEh
+ .text._ZN13LiquidCrystal5clearEv
+                0x00001350        0xe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x00001350                _ZN13LiquidCrystal5clearEv
+ .text._ZN13LiquidCrystal9setCursorEhh
+                0x0000135e       0x26 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x0000135e                _ZN13LiquidCrystal9setCursorEhh
+ .text._ZN13LiquidCrystal7displayEv
+                0x00001384       0x10 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x00001384                _ZN13LiquidCrystal7displayEv
+ .text._ZN13LiquidCrystal5beginEhhh
+                0x00001394      0x14a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x00001394                _ZN13LiquidCrystal5beginEhhh
+ .text._ZN13LiquidCrystalC2Ehhhhhh
+                0x000014de       0x40 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x000014de                _ZN13LiquidCrystalC1Ehhhhhh
+                0x000014de                _ZN13LiquidCrystalC2Ehhhhhh
+ .text._ZN13LiquidCrystal5writeEh
+                0x0000151e        0xc C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x0000151e                _ZN13LiquidCrystal5writeEh
+ .text._ZN6RotaryC2Ecc
+                0x0000152a       0x32 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+                0x0000152a                _ZN6RotaryC1Ecc
+                0x0000152a                _ZN6RotaryC2Ecc
+ .text._ZN6Rotary7processEv
+                0x0000155c       0x42 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+                0x0000155c                _ZN6Rotary7processEv
+ .text.__empty  0x0000159e        0x2 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+                0x0000159e                yield
+ .text.avr-libc.fplib
+                0x000015a0       0x5e d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000015a0                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000015fe        0xa d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                0x000015fe                __unordsf2
+ .text.libgcc.div
+                0x00001608       0x44 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00001608                __udivmodsi4
+ .text.libgcc.div
+                0x0000164c       0x2e d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x0000164c                __divmodsi4
+ .text.libgcc.div
+                0x0000167a       0x10 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x0000167a                __negsi2
+ .text.libgcc   0x0000168a        0xc d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x0000168a                __tablejump2__
+                0x00001696                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001696        0x0 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00001696                _exit
+                0x00001696                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001696        0x4 d:/program files/atmel studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000169a                _etext = .
+
+.data           0x00800100       0x50 load address 0x0000169a
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.verString
+                0x00800100        0x2 Sketch.o
+                0x00800100                verString
+ .data.selectedTime
+                0x00800102        0x4 Sketch.o
+                0x00800102                selectedTime
+ .data.REenable
+                0x00800106        0x1 Sketch.o
+                0x00800106                REenable
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800107       0x12 Sketch.o
+ .rodata.str1.1
+                0x00800119        0xf C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .rodata._ZTV13LiquidCrystal
+                0x00800128        0xc C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                0x00800128                _ZTV13LiquidCrystal
+ .rodata._ZL6ttable
+                0x00800134       0x1c C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ *(.gnu.linkonce.r*)
+                0x00800150                . = ALIGN (0x2)
+                0x00800150                _edata = .
+                0x00800150                PROVIDE (__data_end, .)
+
+.bss            0x00800150       0x24
+                0x00800150                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.rotary    0x00800150        0x3 Sketch.o
+                0x00800150                rotary
+ .bss.lcd       0x00800153       0x18 Sketch.o
+                0x00800153                lcd
+ .bss.timer0_fract
+                0x0080016b        0x1 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x0080016c        0x4 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+                0x0080016c                timer0_millis
+ .bss.timer0_overflow_count
+                0x00800170        0x4 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+                0x00800170                timer0_overflow_count
+ *(COMMON)
+                0x00800174                PROVIDE (__bss_end, .)
+                0x0000169a                __data_load_start = LOADADDR (.data)
+                0x000016ea                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800174        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800174                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Sketch.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .comment       0x00000030       0x31 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ .comment       0x00000030       0x31 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x368
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x60 Sketch.o
+ .debug_aranges
+                0x00000060       0x30 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000090      0x100 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000190       0x48 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x000001d8       0x38 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x00000210      0x110 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .debug_aranges
+                0x00000320       0x28 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ .debug_aranges
+                0x00000348       0x20 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x6e5c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4     0x14ff Sketch.o
+ .debug_info    0x00001af3      0x237 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .debug_info    0x00001d2a     0x28ff C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .debug_info    0x00004629      0x2cb C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .debug_info    0x000048f4      0x5fe C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00004ef2     0x1bdd C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .debug_info    0x00006acf      0x34f C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ .debug_info    0x00006e1e       0x3e C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+
+.debug_abbrev   0x00000000     0x1721
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x3e5 Sketch.o
+ .debug_abbrev  0x00000987      0x12d C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .debug_abbrev  0x00000ab4      0x47a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x00000f2e      0x146 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x00001074      0x15b C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x000011cf      0x365 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .debug_abbrev  0x00001534      0x1c3 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ .debug_abbrev  0x000016f7       0x2a C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+
+.debug_line     0x00000000     0x1dfd
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000133      0x552 Sketch.o
+ .debug_line    0x00000685      0x15f C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .debug_line    0x000007e4      0x679 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .debug_line    0x00000e5d      0x293 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .debug_line    0x000010f0      0x24c C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x0000133c      0x91c C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .debug_line    0x00001c58      0x164 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ .debug_line    0x00001dbc       0x41 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+
+.debug_frame    0x00000000      0xa54
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x148 Sketch.o
+ .debug_frame   0x00000148       0x54 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .debug_frame   0x0000019c      0x3ac C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .debug_frame   0x00000548       0xc4 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .debug_frame   0x0000060c       0x7c C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x00000688      0x354 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .debug_frame   0x000009dc       0x54 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ .debug_frame   0x00000a30       0x24 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+
+.debug_str      0x00000000     0x2278
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 D:/Program Files/Atmel Studio/7.0/Packs/atmel/ATmega_DFP/1.2.150/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x8ad Sketch.o
+                                0x938 (size before relaxing)
+ .debug_str     0x00000ab5       0xb9 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+                                0x2b9 (size before relaxing)
+ .debug_str     0x00000b6e      0xed5 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+                               0x1247 (size before relaxing)
+ .debug_str     0x00001a43      0x15c C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+                                0x24f (size before relaxing)
+ .debug_str     0x00001b9f       0xb6 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+                                0x2b4 (size before relaxing)
+ .debug_str     0x00001c55      0x5b8 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+                                0x94e (size before relaxing)
+ .debug_str     0x0000220d       0x4f C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+                                0x311 (size before relaxing)
+ .debug_str     0x0000225c       0x1c C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+                                0x144 (size before relaxing)
+
+.debug_loc      0x00000000     0x4446
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x37d Sketch.o
+ .debug_loc     0x0000037d     0x1c87 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .debug_loc     0x00002004      0x28d C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00002291      0x5fc C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x0000288d     0x1a6e C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .debug_loc     0x000042fb      0x14b C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x3d8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x98 Sketch.o
+ .debug_ranges  0x00000098       0x20 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(main.o)
+ .debug_ranges  0x000000b8      0x120 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Print.o)
+ .debug_ranges  0x000001d8       0x38 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000210       0x28 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x00000238      0x178 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(LiquidCrystal.o)
+ .debug_ranges  0x000003b0       0x18 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(Rotary.o)
+ .debug_ranges  0x000003c8       0x10 C:\Users\Porama6400\Documents\Project\Atmel Studio\PLSR Firmware\PLSR\ArduinoCore\Release\libArduinoCore.a(hooks.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(PLSR.elf elf32-avr)
+LOAD linker stubs
