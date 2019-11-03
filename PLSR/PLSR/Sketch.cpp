@@ -31,7 +31,7 @@ const double time_maximum = 150;
 const char *verString = "v2.1";
 //Prototypes of methods
 void renderMainMenu();
-void rotaryHandler();
+void handleRotaryEncoder();
 
 void setup() {
 	//Initialize I/O
@@ -85,7 +85,7 @@ int waitFor(int btn,bool logic,int timeout){
 /************************************************************************/
 
 
-void rotaryHandler(){
+void handleRotaryEncoder(){
 	char result = rotary.process();
 	if(!result) return;
 	bool CW = (result ==DIR_CW);
@@ -215,5 +215,5 @@ void loop() {
 	handleButtonOK();
 	handleButtonTOGGLE();
 	handleButtonRESET();
-	rotaryHandler();
+	handleRotaryEncoder();
 }
